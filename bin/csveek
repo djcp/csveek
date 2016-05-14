@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "./lib/csveek"
+
+Csveek.start(ARGV)
